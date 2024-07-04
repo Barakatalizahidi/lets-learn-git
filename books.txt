@@ -2,3 +2,6 @@ my favorite books are :
 - algorithm
 - Golang
 - SQL 
+- digital marketing 
+- cyber security
+- coding 
